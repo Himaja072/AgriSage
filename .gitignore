@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.vscode/
+
+# Datasets
+data/images/
+data/dataset/
+
+# Trained models
+*.h5
+*.keras
+*.pth
+*.pt
